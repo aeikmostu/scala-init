@@ -1,0 +1,6 @@
+class Complex(real: Double, imaginary: Double) {
+def re =real
+def im =imaginary
+
+override def toString() ="I am a Complex Number ("+re+"; "+im+")"
+}
