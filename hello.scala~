@@ -1,9 +1,0 @@
-import java.util.{Date, Locale}
-import java.text.DateFormat
-import java.text.DateFormat._
-
-object HelloWorld {
-def main(args: Array[String]) {
-	println("Hello, world!")
-    }
-}

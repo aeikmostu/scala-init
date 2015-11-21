@@ -1,7 +1,6 @@
-package org.amos.org.amos.katas.test
+package org.amos.katas.test
 
-import org.amos.org.amos.katas.FizzBuzz
-import org.amos.org.amos.katas.test.com.mycompany.myproject.UnitSpec
+import org.amos.katas.FizzBuzz
 /**
  * Created by amos on 04/11/15.
  */

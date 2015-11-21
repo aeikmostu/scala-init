@@ -1,4 +1,4 @@
-package org.amos.org.amos.katas.test
+package org.amos.katas.test
 
 /**
  * Created by amos on 04/11/15.
